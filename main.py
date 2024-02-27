@@ -1,0 +1,1 @@
+print('Simon es un dios')
